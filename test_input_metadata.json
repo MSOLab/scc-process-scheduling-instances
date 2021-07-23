@@ -1,0 +1,40 @@
+{
+    "input_directory": "test_input_data/",
+    "input_prefix": "te",
+    "suffix_digits": 3,
+    "mc_env_suffix": "_mc_env",
+    "mc_env_extension": ".json",
+    "cast_suffix": "_cast",
+    "cast_extension": ".json",
+    "duedate_suffix": "_duedate",
+    "duedate_extension": ".json",
+    "processtime_suffix": "_pt",
+    "processtime_extension": ".csv",
+    "processtime_header": [
+        "ch_id",
+        "mc_id",
+        "pt"
+    ],
+    "i_encoding": "utf-8",
+    "cast_lth_min": 3,
+    "cast_lth_max": 6,
+    "limit_by_casts": false,
+    "limit_by_charges": true,
+    "cast_count_min": 2,
+    "cast_count_max": 5,
+    "short_ttl": 5,
+    "long_ttl": 10,
+    "ih_cast_timelimit": 20,
+    "ih_termination_gap_increment": 0.05,
+    "dca_repeat": 3,
+    "dca_timelimit": 20,
+    "dca_continue_diff": 0.1,
+    "dch_window_minutes": 60,
+    "dch_step_minutes": 60,
+    "dch_timelimit": 20,
+    "input_index_list": [
+        11,
+        1,
+        111
+    ]
+}
