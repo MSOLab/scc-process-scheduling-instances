@@ -1,6 +1,6 @@
 # Problem Instances for Scheduling of SCC process
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5126007.svg)](https://doi.org/10.5281/zenodo.5126007)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5136370.svg)](https://doi.org/10.5281/zenodo.5136370)
 
 This repository of problem instances for scheduling of steelmaking-continuous casting (SCC) process accompanies the paper An Iterated Greedy Matheuristic for Scheduling in Steelmaking-Continuous Casting Process by Hong et al. (2021, under revision)
 
